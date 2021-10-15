@@ -21,6 +21,12 @@ public class NumberTriangle
                 Console.Write(l);
             }
             Console.Write("\n");
+            
+            
+            
         }
+        Console.Write("\n");
+        Console.Write("Done! Press a key to exit.");
+        Console.ReadKey();
     }
 }
