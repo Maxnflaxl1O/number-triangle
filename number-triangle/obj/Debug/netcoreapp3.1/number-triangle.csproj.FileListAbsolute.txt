@@ -1,0 +1,14 @@
+G:\CODE\Source\Repos\number-triangle\number-triangle\bin\Debug\netcoreapp3.1\number-triangle.exe
+G:\CODE\Source\Repos\number-triangle\number-triangle\bin\Debug\netcoreapp3.1\number-triangle.deps.json
+G:\CODE\Source\Repos\number-triangle\number-triangle\bin\Debug\netcoreapp3.1\number-triangle.runtimeconfig.json
+G:\CODE\Source\Repos\number-triangle\number-triangle\bin\Debug\netcoreapp3.1\number-triangle.runtimeconfig.dev.json
+G:\CODE\Source\Repos\number-triangle\number-triangle\bin\Debug\netcoreapp3.1\number-triangle.dll
+G:\CODE\Source\Repos\number-triangle\number-triangle\bin\Debug\netcoreapp3.1\number-triangle.pdb
+G:\CODE\Source\Repos\number-triangle\number-triangle\obj\Debug\netcoreapp3.1\number-triangle.csproj.AssemblyReference.cache
+G:\CODE\Source\Repos\number-triangle\number-triangle\obj\Debug\netcoreapp3.1\number-triangle.GeneratedMSBuildEditorConfig.editorconfig
+G:\CODE\Source\Repos\number-triangle\number-triangle\obj\Debug\netcoreapp3.1\number-triangle.AssemblyInfoInputs.cache
+G:\CODE\Source\Repos\number-triangle\number-triangle\obj\Debug\netcoreapp3.1\number-triangle.AssemblyInfo.cs
+G:\CODE\Source\Repos\number-triangle\number-triangle\obj\Debug\netcoreapp3.1\number-triangle.csproj.CoreCompileInputs.cache
+G:\CODE\Source\Repos\number-triangle\number-triangle\obj\Debug\netcoreapp3.1\number-triangle.dll
+G:\CODE\Source\Repos\number-triangle\number-triangle\obj\Debug\netcoreapp3.1\number-triangle.pdb
+G:\CODE\Source\Repos\number-triangle\number-triangle\obj\Debug\netcoreapp3.1\number-triangle.genruntimeconfig.cache
