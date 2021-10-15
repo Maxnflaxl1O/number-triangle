@@ -1,0 +1,2 @@
+# number-triangle
+weird shit 
